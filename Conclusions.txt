@@ -1,0 +1,16 @@
+GDP evolution of the selected countries from 2000 to 2015 showed that China 
+experienced a massive boost, overtaking Germany and catching the United States.
+However, taking their population, Germany presents itself as the leader in GDP per capita.
+Zimbabwe, trailing in the pack by a margin, shows some potential since 2008,
+trying to catch up with developed countries.
+
+Life expectancy at birth shows Germany as the leader, with Chile being the 
+second, suprisingly. The leader in GDP, the United States, only comes third.
+Zimbabwe again being far away from the pack, but rapidly catching up as their
+GDP also grows. 
+
+In conclusion, there is a relationship between life expectancy and GDP as the
+developed countries have longer life expectancy at birth the the developing ones.
+Nevetheless, the leaders of the GDP in 2015, China and the United States, have lower
+life expectancy at birth than Germany and Chile who did not their maximum of
+life expectancy in the peak of GDP. 
